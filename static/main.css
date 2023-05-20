@@ -1,0 +1,20 @@
+table {
+    border-collapse:collapse;
+}
+
+td {
+    border: 5px solid lightskyblue;
+    padding: 15px;
+}
+
+button{
+    text-align: center;
+    color:brown;
+    font-size: larger;
+    border-radius: 5px;
+}
+
+h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(233, 206, 28);
+}
